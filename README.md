@@ -167,5 +167,7 @@ Open `Airbnb\_Analysis\_Project.pbix` in [Power BI Desktop](https://powerbi.micr
 
 ## 📬 Contact
 
-If you'd like to discuss this project or my approach to it, feel free to reach out via \[LinkedIn] or \[email].
+If you'd like to discuss this project or my approach to it, feel free to reach out via 
+LinkedIn: www.linkedin.com/in/kabeer-khan-analyst
+email: kabeerk992@gmail.com
 
