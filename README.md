@@ -1,4 +1,4 @@
-# 🏠 Airbnb Revenue \& Host Performance Analysis | Power BI
+# 🏠 Airbnb Revenue and Host Performance Analysis | Power BI
 
 An end-to-end Power BI analytics project analyzing Airbnb revenue, host performance, and pricing strategy — built on a star-schema data model with 100,200 bookings across 80 properties, 50 hosts, and 20 NYC neighbourhoods. The project translates raw booking data into business insights, with each KPI validated against the source data before being reported.
 
